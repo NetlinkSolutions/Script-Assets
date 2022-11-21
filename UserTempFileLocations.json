@@ -7,166 +7,166 @@
     },
     {
       "Path": "\\*.blf",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\*.regtrans-ms",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\AppData\\LocalLow\\Sun\\Java\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Cache\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\JumpListIconsOld\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\JumpListIcons\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Local Storage\\http*.*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Media Cache\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\AppData\\Local\\Microsoft\\Internet Explorer\\Recovery\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\AppData\\Local\\Microsoft\\Terminal Server Client\\Cache\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\AppData\\Local\\Microsoft\\Windows\\Caches\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\AppData\\Local\\Microsoft\\Windows\\Explorer\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\AppData\\Local\\Microsoft\\Windows\\History\\low\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\AppData\\Local\\Microsoft\\Windows\\INetCache\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\AppData\\Local\\Microsoft\\Windows\\WER\\ReportArchive\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\AppData\\Local\\Microsoft\\Windows\\WER\\ReportQueue\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\AppData\\Local\\Microsoft\\Windows\\WebCache\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\AppData\\Local\\Temp\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\AppData\\Roaming\\Adobe\\Flash Player\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\AppData\\Roaming\\Microsoft\\Teams\\Service Worker\\CacheStorage\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\AppData\\Roaming\\Macromedia\\Flash Player\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\Application Data\\Adobe\\Flash Player\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\Application Data\\Macromedia\\Flash Player\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\Application Data\\Microsoft\\Dr Watson\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\Application Data\\Microsoft\\Windows\\WER\\ReportArchive\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\Application Data\\Microsoft\\Windows\\WER\\ReportQueue\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\Application Data\\Sun\\Java\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\Local Settings\\Application Data\\ApplicationHistory\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\Local Settings\\Application Data\\Google\\Chrome\\User Data\\Default\\Cache\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\Local Settings\\Application Data\\Google\\Chrome\\User Data\\Default\\JumpListIconsOld\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\Local Settings\\Application Data\\Google\\Chrome\\User Data\\Default\\JumpListIcons\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\Local Settings\\Application Data\\Google\\Chrome\\User Data\\Default\\Local Storage\\http*.*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\Local Settings\\Application Data\\Google\\Chrome\\User Data\\Default\\Media Cache\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\Local Settings\\Application Data\\Microsoft\\Dr Watson\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\Local Settings\\Application Data\\Microsoft\\Internet Explorer\\Recovery\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\Local Settings\\Application Data\\Microsoft\\Terminal Server Client\\Cache\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\Local Settings\\Temp\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\Local Settings\\Temporary Internet Files\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     },
     {
       "Path": "\\Recent\\*",
-      "Recuse": "TRUE"
+      "Recurse": "TRUE"
     }
   ]
