@@ -1,9 +1,11 @@
 [
     {
-      "Path": "\\Documents\\*.tmp"
+      "Path": "\\Documents\\*.tmp",
+      "Recurse": "FALSE"
     },
     {
-      "Path": "\\My Documents\\*.tmp"
+      "Path": "\\My Documents\\*.tmp",
+      "Recurse": "FALSE"
     },
     {
       "Path": "\\*.blf",
