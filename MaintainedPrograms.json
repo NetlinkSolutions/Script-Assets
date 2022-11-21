@@ -24,11 +24,19 @@
         "Id":"Microsoft.Edge"
     },
     {
+        "Name":"Microsoft Edge WebView2 Runtime",
+        "Id":"Microsoft.EdgeWebview2Runtime"
+    },
+    {
         "Name":"Mozilla Firefox",
         "Id":"Mozilla.Firefox"
     },
     {
         "Name":"Zoom",
         "Id":"Zoom.Zoom"
+    },
+    {
+        "Name":"7-Zip",
+        "Id":"7zip.7zip"
     }
 ]
