@@ -40,6 +40,26 @@
       "Recurse": "TRUE"
     },
     {
+      "Path": "\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\Cache\\*",
+      "Recurse": "TRUE"
+    },
+    {
+      "Path": "\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\JumpListIconsOld\\*",
+      "Recurse": "TRUE"
+    },
+    {
+      "Path": "\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\JumpListIcons\\*",
+      "Recurse": "TRUE"
+    },
+    {
+      "Path": "\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\Local Storage\\http*.*",
+      "Recurse": "TRUE"
+    },
+    {
+      "Path": "\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\Media Cache\\*",
+      "Recurse": "TRUE"
+    },
+    {
       "Path": "\\AppData\\Local\\Microsoft\\Internet Explorer\\Recovery\\*",
       "Recurse": "TRUE"
     },
@@ -169,6 +189,10 @@
     },
     {
       "Path": "\\Recent\\*",
+      "Recurse": "TRUE"
+    },
+    {
+      "Path": "\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\*\\cache2\\*",
       "Recurse": "TRUE"
     }
   ]
