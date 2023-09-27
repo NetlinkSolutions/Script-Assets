@@ -20,6 +20,10 @@
         "Id":"Logitech.Options"
     },
     {
+        "Name":"Logitech Options+",
+        "Id":"Logitech.OptionsPlus"
+    },
+    {
         "Name":"Microsoft Edge",
         "Id":"Microsoft.Edge"
     },

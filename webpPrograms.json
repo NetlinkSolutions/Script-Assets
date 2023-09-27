@@ -1,0 +1,166 @@
+[
+    {
+        "Name":"1Password",
+        "Id":"AgileBits.1Password"
+    },
+    {
+        "Name":"balenaEtcher",
+        "Id":"Balena.Etcher"
+    },
+    {
+        "Name":"Beaker (web browser)",
+        "Id": "PaulFrazee.BeakerBrowser"
+    },
+    {
+        "Name": "Bitwarden",
+        "Id": "Bitwarden.Bitwarden"
+    },
+    {
+        "Name": "Brave",
+        "Id": "Brave.Brave"
+    },
+    {
+        "Name": "Discord",
+        "Id": "Discord.Discord"
+    },
+    {
+        "Name": "FreeTube",
+        "Id": "PrestonN.FreeTube"
+    },
+    {
+        "Name": "GitHub Desktop",
+        "Id": "GitHub.GitHubDesktop"
+    },
+    {
+        "Name": "GitKraken",
+        "Id": "Axosoft.GitKraken"
+    },
+    {
+        "Name":"Google Chrome",
+        "Id":"Google.Chrome"
+    },
+    {
+        "Name": "Joplin",
+        "Id": "Joplin.Joplin"
+    },
+    {
+        "Name": "Keybase",
+        "Id": "Keybase.Keybase"
+    },
+    {
+        "Name": "LBRY",
+        "Id": "LBRY.LBRY"
+    },
+    {
+        "Name": "LibreOffice",
+        "Id": "TheDocumentFoundation.LibreOffice"
+    },
+    {
+        "Name":"Logitech Logibolt",
+        "Id":"Logitech.LogiBolt"
+    },
+    {
+        "Name":"Logitech Options",
+        "Id":"Logitech.Options"
+    },
+    {
+        "Name": "Logitech Options+",
+        "Id": "Logitech.OptionsPlus"
+    },
+    {
+        "Name": "Mattermost",
+        "Id": "Mattermost.MattermostDesktop"
+    },
+    {
+        "Name": "Microsoft Edge",
+        "Id": "Microsoft.Edge"
+    },
+    {
+        "Name": "Microsoft Teams",
+        "Id": "Microsoft.Teams"
+    },
+    {
+        "Name": "MongoDB Compass",
+        "Id": "MongoDB.Compass.Full"
+    },
+    {
+        "Name": "MongoDB Compass Community",
+        "Id": "MongoDB.Compass.Community"
+    },
+    {
+        "Name": "Mozilla Firefox",
+        "Id": "Mozilla.Firefox"
+    },
+    {
+        "Name": "Mozilla Firefox ESR",
+        "Id": "Mozilla.Firefox.ESR"
+    },
+    {
+        "Name": "Mozilla Thunderbird",
+        "Id": "Mozilla.Thunderbird"
+    },
+    {
+        "Name": "Mullvad VPN",
+        "Id": "MullvadVPN.MullvadVPN"
+    },
+    {
+        "Name": "Notion",
+        "Id": "Notion.Notion"
+    },
+    {
+        "Name": "Notion",
+        "Id": "NotionRepackaged.NotionEnhanced"
+    },
+    {
+        "Name": "Obsidian",
+        "Id": "Obsidian.Obsidian"
+    },
+    {
+        "Name": "Opera",
+        "Id": "Opera.Opera"
+    },
+    {
+        "Name": "Signal",
+        "Id": "OpenWhisperSystems.Signal"
+    },{
+        "Name": "Skype",
+        "Id": "Microsoft.Skype"
+    },
+    {
+        "Name": "Slack",
+        "Id": "SlackTechnologies.Slack"
+    },
+    {
+        "Name": "Tabby",
+        "Id": "Eugeny.Tabby"
+    },
+    {
+        "Name": "TIDAL",
+        "Id": "TIDALMusicAS.TIDAL"
+    },
+    {
+        "Name": "Tor Browser",
+        "Id": "TorProject.TorBrowser"
+    },
+    {
+        "Name": "Twitch",
+        "Id": "Twitch.TwitchStudio"
+    },
+    {
+        "Name": "Visual Studio Code",
+        "Id": "Microsoft.VisualStudioCode"
+    },
+    {
+        "Name": "Vivaldi",
+        "Id": "VivaldiTechnologies.Vivaldi"
+    },
+    {
+        "Name": "Wire",
+        "Id": "Wire"
+    },
+    {
+        "Name":"Google Chrome",
+        "Id":"Google.Chrome"
+    }
+    
+]
