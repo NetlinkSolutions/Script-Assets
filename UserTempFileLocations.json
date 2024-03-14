@@ -44,6 +44,10 @@
       "Recurse": "TRUE"
     },
     {
+      "Path": "\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\Code Cache\\*",
+      "Recurse": "TRUE"
+    },
+    {
       "Path": "\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\JumpListIconsOld\\*",
       "Recurse": "TRUE"
     },
@@ -57,6 +61,10 @@
     },
     {
       "Path": "\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\Media Cache\\*",
+      "Recurse": "TRUE"
+    },
+    {
+      "Path": "\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\Service Worker\\CacheStorage\\*",
       "Recurse": "TRUE"
     },
     {
@@ -168,6 +176,14 @@
       "Recurse": "TRUE"
     },
     {
+      "Path": "\\Local Settings\\Application Data\\Google\\Chrome\\User Data\\Default\\Cache\\*",
+      "Recurse": "TRUE"
+    },
+    {
+      "Path": "\\Local Settings\\Application Data\\Google\\Chrome\\User Data\\Default\\Code Cache\\*",
+      "Recurse": "TRUE"
+    },
+    {
       "Path": "\\Local Settings\\Application Data\\Microsoft\\Dr Watson\\*",
       "Recurse": "TRUE"
     },
@@ -193,6 +209,18 @@
     },
     {
       "Path": "\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\*\\cache2\\*",
+      "Recurse": "TRUE"
+    },
+    {
+      "Path": "\\AppData\\LocalLow\\Adobe\\Acrobat\\DC\\ConnectorIcons\\*",
+      "Recurse": "TRUE"
+    },
+    {
+      "Path": "\\AppData\\LocalLow\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\Code Cache\\*",
+      "Recurse": "TRUE"
+    },
+    {
+      "Path": "\\AppData\\Local\\CrashDumps\\*",
       "Recurse": "TRUE"
     }
   ]
